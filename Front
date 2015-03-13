@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>HOME</title>
+	<base href="http://uk.zyro.com/data/t/u/tututorias.com/out/" />
+			<meta name="viewport" content="width=992" />
+		<meta name="description" content="" />
+	<meta name="keywords" content="" />
+		<meta name="generator" content="Zyro - Website Builder" />
+	
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+	<script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+	<script src="js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="js/main.js" type="text/javascript"></script>
+
+	<link href="css/site.css?v=1.0.8" rel="stylesheet" type="text/css" />
+	<link href="css/common.css?ts=1426250561" rel="stylesheet" type="text/css" />
+	<link href="css/1.css?ts=1426250561" rel="stylesheet" type="text/css" />
+	
+	<script type="text/javascript">var currLang = '';</script>		
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+
+
+<body><div class="root"><div class="vbox wb_container" id="wb_header">
+	
+<div id="wb_element_instance0" class="wb_element"><ul class="hmenu"><li class="active"><a href="Inicio/" target="_self" title="Inicio">Inicio</a></li><li><a href="Acerca-de/" target="_self" title="Acerca de">Acerca de</a></li><li><a href="Comunidad/" target="_self" title="Comunidad">Comunidad</a></li><li><a href="Contactanos/" target="_self" title="Contactanos">Contactanos</a></li><li><a href="Material-de-ayuda/" target="_self" title="Material de ayuda">Material de ayuda</a></li></ul></div><div id="wb_element_instance1" class="wb_element" style=" line-height: normal;"><h4 class="wb-stl-pagetitle"><a href="Inicio/">T</a>UTUTORIA</h4>
+</div></div>
+<div class="vbox wb_container" id="wb_main">
+	
+<div id="wb_element_instance4" class="wb_element" style=" line-height: normal;"><h4 class="wb-stl-pagetitle">Nuestra comunidad</h4>
+</div><div id="wb_element_instance5" class="wb_element"><a class="wb_button" href="Acerca-de/"><span>Leer más</span></a></div><div id="wb_element_instance6" class="wb_element" style=" line-height: normal;"><h1 class="wb-stl-heading1">DEFINICIÓN DE EL P.O.U</h1>
+</div><div id="wb_element_instance7" class="wb_element" style=" line-height: normal;"><p class="wb-stl-footer">El Programa de Orientación Universitaria está conformado por todas aquellas acciones que permitan trabajar en torno al mejoramiento del desempeño académico de los estudiantes.</p>
+</div><div id="wb_element_instance8" class="wb_element" style=" line-height: normal;"><p class="wb-stl-footer">El programa de orientación universitaria como tal pretende realizar un acercamiento entre los estudiantes con los integrantes de esta comunidad académica, ya sea docente, psicólogo, coordinadores de programa, etc. </p>
+</div><div id="wb_element_instance9" class="wb_element"><img alt="" src="gallery/2af25514363b75619dad9443f931c5da_450x300.jpg"></div><div id="wb_element_instance10" class="wb_element"><a class="wb_button" href="Comunidad/"><span>Leer más</span></a></div><div id="wb_element_instance11" class="wb_element"><img alt="" src="gallery/820188349e5846c48c669003aa4f33f0_450x300.jpg"></div><div id="wb_element_instance12" class="wb_element" style=" line-height: normal;"><h4 class="wb-stl-pagetitle">Material de ayuda</h4>
+</div><div id="wb_element_instance13" class="wb_element" style=" line-height: normal;"><p class="wb-stl-footer">En este sitio podrá encontrar material de ayuda que le servirá durante su ciclo de vida en la universidad, encontrando allí temas de interés de las distintas asignaturas.</p>
+</div><div id="wb_element_instance14" class="wb_element"><a class="wb_button" href="Material-de-ayuda/"><span>Leer más</span></a></div><div id="wb_element_instance15" class="wb_element" style=" line-height: normal;"><h3 class="wb-stl-heading3" style="text-align: center;"><span style="color:#ffffff;">PROGRAMA DE ORIENTACIÓN UNIVERSITARIO (P.O.U)</span></h3>
+
+<p style="text-align: right;"> <strong style="color: rgb(138, 138, 138); font-family: 'Roboto Condensed', sans-serif; font-size: 26px; line-height: 40px; text-align: right; background-color: transparent;"><font color="#ffffff">APLICATIVO WEB</font></strong></p>
+
+<h3 class="wb-stl-heading3"> </h3>
+</div><div id="wb_element_instance16" class="wb_element" style="width: 100%;">
+						<script type="text/javascript">
+				$(function() {
+					$("#wb_element_instance16").hide();
+				});
+			</script>
+						</div></div>
+<div class="vbox wb_container" id="wb_footer">
+	
+<div id="wb_element_instance2" class="wb_element"><div class="wb-stl-footer" style="white-space: nowrap;">Yo <i class="icon-wb-logo"></i><a href="http://zyro.com/catalog/" target="_blank" title="Zyro - Website Builder">Zyro</a></div></div><div id="wb_element_instance3" class="wb_element" style=" line-height: normal;"><p class="wb-stl-footer">© 2015 <a href="http://tututorias.com">tututorias.com</a></p></div></div><div class="wb_sbg"></div></div></body>
+</html>
